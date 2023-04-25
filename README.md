@@ -3,6 +3,7 @@
 ## Introduction
 
 This project is based on our published paper  "Accurate-ECN: An ECN Enhancement with Inband Network Telemetry"(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9843273)
+Accurate-ECN augment the TCP-ECN with INT to provide precise congestion information to the sender. For more information, please refer to the published paper.
 
 ## Prerequisites
 
